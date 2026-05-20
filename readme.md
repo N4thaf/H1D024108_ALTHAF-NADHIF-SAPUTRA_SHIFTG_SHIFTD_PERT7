@@ -7,4 +7,4 @@ Bagi dataset menjadi data training dan testing dengan rasio 80:20 menggunakan tr
 Bangun model Sequential dengan 1 input layer dan 4 Dense layer: tiga hidden layer (1000, 500, 300 neuron) dengan aktivasi ReLU, dan output layer dengan 3 neuron dan aktivasi Softmax.
 Kompilasi model menggunakan optimizer Adam, loss function sparse_categorical_crossentropy, dan metrik accuracy.
 Latih model selama 50 epoch dengan batch size 32, sambil memvalidasi performa di setiap epoch menggunakan data testing.
-Evaluasi model, tampilkan confusion matrix, lalu prediksi data baru dengan fungsi input interaktif dari pengguna.# H1D024108_ALTHAF-NADHIF-SAPUTRA_SHIFTG_SHIFTD_PERT7
+Evaluasi model, tampilkan confusion matrix, lalu prediksi data baru.
